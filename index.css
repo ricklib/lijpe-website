@@ -1,0 +1,38 @@
+﻿html, body {
+    margin: 0;
+}
+
+.background {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(
+            to bottom right,
+            #ff0000,
+            #ff7f00,
+            #ffff00,
+            #00ff00,
+            #0000ff,
+            #4b0082,
+            #9400d3
+    );
+}
+
+.front_container {
+    margin: 20px;
+    margin-top: 0;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.title_text {
+    margin: 0;
+    width: 50vw;
+    font-family: "Comic Sans MS", serif;
+    font-size: 100px
+}
+
+.cat_picture {
+    width: 25vw;
+}

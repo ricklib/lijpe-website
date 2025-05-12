@@ -1,0 +1,12 @@
+﻿body, html {
+    margin: 0;
+}
+
+.text {
+    position: absolute;
+    color: rgb(0, 255, 0);
+    width: 40vw;
+    font-family: courier;
+    font-weight: bolder;
+    font-size: 50px;
+}
